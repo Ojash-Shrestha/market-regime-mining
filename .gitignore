@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/raw_prices.csv
+data/daily_returns.csv
+data/market_temporal_db.txt
+results/
